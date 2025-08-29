@@ -4,10 +4,6 @@ body {
     background: green;
 }
 
-div {
-    border: 1px solid;
-}
-
 #card {
     display: flex;
     flex-direction: column;
